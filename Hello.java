@@ -2,7 +2,7 @@ public class git{
 
 p.s.v.m(S[] a){
 
-hello world
+S.o.p ("hello world!");
 
 
 }
